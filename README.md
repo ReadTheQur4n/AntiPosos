@@ -2,6 +2,8 @@
 
 AntiPosos - A simple open source hacked client for Minecraft: Bedrock Edition (Android)
 
+![Preview](preview.png)
+
 ## Build with CMake
 
 1. Open cmd
